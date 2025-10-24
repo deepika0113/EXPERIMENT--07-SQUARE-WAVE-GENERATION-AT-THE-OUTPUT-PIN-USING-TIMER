@@ -253,9 +253,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-<img width="1350" height="947" alt="image" src="https://github.com/user-attachments/assets/7cbd451f-3c74-45aa-8d89-644337edfded" />
+<img width="1352" height="947" alt="image" src="https://github.com/user-attachments/assets/41159511-17c9-4fce-89c7-e9d433c8202b" />
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
+```
 FOR PULSE AT 500
 
 TON = 3 x 10 x 10^-6
@@ -308,7 +309,7 @@ DUTY CYCLE = TON /(TON+TOFF)
       IN % =0.9*100 
            = 90 %
 
-
+```
 
 
 ## Result :
