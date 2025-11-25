@@ -1,6 +1,6 @@
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
-k
+
 ### Components required:
 STM32 CUBE IDE, Proteus 8 simulator .
 
